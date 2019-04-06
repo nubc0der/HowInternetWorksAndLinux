@@ -1,6 +1,6 @@
-#How The Internet Works
+# How The Internet Works
 
-#What exactly is the Internet?
+# What exactly is the Internet?
 
 - The Internet, sometimes called simply "the Net," is a worldwide system of computer networks - a network of networks in
 which users at any one computer can, if they have permission, get information from any other computer (and sometimes 
@@ -8,7 +8,7 @@ talk directly to users at other computers).
 - A global computer network providing a variety of information and communication facilities, consisting of 
 interconnected networks using standardized communication protocols.
 
-#Connecting to the Internet
+# Connecting to the Internet
 
 There are many ways a user can connect to the Internet 
 
@@ -45,7 +45,7 @@ There are many ways a user can connect to the Internet
         80 Kbps. These speeds may be slower than DSL and cable modem, but they are about 10 times faster than the 
         download speed with dial-up Internet access. Service can be disrupted in extreme weather conditions.
 
-#Whats URL and How Do You Read It?
+# Whats URL and How Do You Read It?
 
 - Uniform Resource Locator (URL) 
     
@@ -68,7 +68,7 @@ There are many ways a user can connect to the Internet
 - Domain Name
     -
     - The part of a network address that identifies it as belonging to a particular domain.
-        - The domain name for the URL in our example would be: "youtube"
+        - The domain name for the URL in the example would be: "youtube"
 
 - Top-level Domain 
     -
@@ -79,14 +79,15 @@ There are many ways a user can connect to the Internet
     (ICANN).
     - This is the highest level domain, The domain name would be second-level domain
     and www. would be subdomain.
-        - The TLD for the example we have would be: ".com"
+        - The TLD for the example would be: ".com"
 
 - Subpage
     -
     - the remaining sequence of letters/characters proceeding the TLD is considered a subpage, the path to a particular 
     file or webpage. 
+       - the subpage path for the example would be: "/watch?v=5o8CwafCxnU"
 
-#Web Server and HTTP Requests
+# Web Server and HTTP Requests
 
 A website is the way we see it, because it is pulling and get-requesting HTTP to a server to create the content of its page.
 
@@ -112,3 +113,4 @@ A website is the way we see it, because it is pulling and get-requesting HTTP to
     server and a browser. This link ensures that all data passed between the web server and browsers remain private and 
     integral. SSL is an industry standard and is used by millions of websites in the protection of their online 
     transactions with their customers.
+    
