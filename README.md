@@ -90,8 +90,13 @@ There are many ways a user can connect to the Internet
 # Web Server and HTTP Requests
 
 A website is the way we see it, because it is pulling and get-requesting HTTP to a server to create the content of its page.
+ 
+![alt text](https://github.com/nubc0der/HowInternetWorksAndLinux/blob/HowInternetWorks/images/httpRequest.jpg?raw=true)
+![alt text](https://github.com/nubc0der/HowInternetWorksAndLinux/blob/HowInternetWorks/images/httpRequest2.jpg?raw=true)
+
 
 - TCP/IP
+    -
     - Transmission control protocol/Internet protocol, used to govern the connection of computer systems to the Internet.
     - TCP/IP specifies how data is exchanged over the internet by providing end-to-end communications that identify how it 
     should be broken into packets, addressed, transmitted, routed and received at the destination. TCP/IP requires 
@@ -99,18 +104,21 @@ A website is the way we see it, because it is pulling and get-requesting HTTP to
     from the failure of any device on the network.
 
 - Port 80
+    -
     - Port 80 is the port number assigned to commonly used internet communication protocol, Hypertext Transfer Protocol 
     (HTTP). It is the port from which a computer sends and receives Web client-based communication and messages from a 
     Web server and is used to send and receive HTML pages or data.
 
 - Port 443
+    -
     - Port 443 is the standard TCP port that is used for website which use SSL. When you go to a website which uses the 
     https at the beginning you are connecting to port 443.
     - This port is used for secure web browser communication.
     
-- SSL
+- SSL  
+    -
     - SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web 
     server and a browser. This link ensures that all data passed between the web server and browsers remain private and 
     integral. SSL is an industry standard and is used by millions of websites in the protection of their online 
     transactions with their customers.
-    
+   
