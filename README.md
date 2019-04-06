@@ -4,3 +4,6 @@ So it started in 1957 when Bell Labs found they needed an operating system for t
 
 -sources http://teaching.idallen.com/cst8207/11f/notes/02-Linux-History.pdf
 https://www.computerhope.com/history/unix.htm
+
+#Linux Commands
+pwd — When you first open the terminal, you are in the home directory of your user. To know which directory you are in, you can use the “pwd” command.
