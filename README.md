@@ -7,3 +7,17 @@ https://www.computerhope.com/history/unix.htm
 
 #Linux Commands
 pwd — When you first open the terminal, you are in the home directory of your user. To know which directory you are in, you can use the “pwd” command.
+
+cd — Use the "cd" command to go to a directory. For example, if you are in the home folder, and you want to go to the downloads folder, then you can type in “cd Downloads”. Remember, this command is case sensitive, and you have to type in the name of the folder exactly as it is.
+
+File Permissions
+
+chmod- Change access permission for a file(s).
+
+chown	-Change the owner or group for a file.
+
+ex:$ chmod -R www-data:www-data /var/www/html
+
+vi-popular text editor on Unix-like operating systems. It can be used to edit all kinds of plain text and program files.
+
+ex: $ vi filename
