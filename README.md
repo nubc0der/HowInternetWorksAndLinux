@@ -97,4 +97,18 @@ A website is the way we see it, because it is pulling and get-requesting HTTP to
     little central management, and it is designed to make networks reliable, with the ability to recover automatically 
     from the failure of any device on the network.
 
+- Port 80
+    - Port 80 is the port number assigned to commonly used internet communication protocol, Hypertext Transfer Protocol 
+    (HTTP). It is the port from which a computer sends and receives Web client-based communication and messages from a 
+    Web server and is used to send and receive HTML pages or data.
 
+- Port 443
+    - Port 443 is the standard TCP port that is used for website which use SSL. When you go to a website which uses the 
+    https at the beginning you are connecting to port 443.
+    - This port is used for secure web browser communication.
+    
+- SSL
+    - SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web 
+    server and a browser. This link ensures that all data passed between the web server and browsers remain private and 
+    integral. SSL is an industry standard and is used by millions of websites in the protection of their online 
+    transactions with their customers.
