@@ -21,3 +21,6 @@ ex:$ chmod -R www-data:www-data /var/www/html
 vi-popular text editor on Unix-like operating systems. It can be used to edit all kinds of plain text and program files.
 
 ex: $ vi filename
+
+#File Transfer Protocol
+FTP: is a client-server protocol that relies on two communications channels between client and server: a command channel for controlling the conversation and a data channel for transmitting file content. Clients initiate conversations with servers by requesting to download a file. Using FTP, a client can upload, download, delete, rename, move and copy files on a server
